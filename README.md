@@ -1,7 +1,7 @@
 # videos-list
 This repository contains a back-end part and a front-end part. The front-end runs with React and there were a few script modifications within the package.json file from both React and Node parts. 
 
-# The modules used were added with the following command lines:
+The modules used were added with the following command lines:
 
 -npm init
 -npm instal express
