@@ -34,4 +34,4 @@ The modules used were added with the following command lines:
   #(This is added as the first line of the script)
 
   "postinstall": "npm run build"
-  (This was included in order to run the build folder automatically when deploying it)
+  (This was included in order to run the build environment automatically when deploying it)
