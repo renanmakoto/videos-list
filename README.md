@@ -31,3 +31,6 @@ The modules used were added with the following command lines:
   
   "start": "PORT=5000 react-scripts start",
   #(This is added as the first line of the script)
+
+  "postinstall": "npm run build"
+  (This is included in order to run the build folder automatically when deploying it)
