@@ -16,6 +16,7 @@ The modules used were added with the following command lines:
 "start_client": "npm start --prefix front",
     "start_node": "node index.js",
     "start_dev": "concurrently \"npm run start_node\" \"npm run
+    "postinstall": "npm install --prefix front"
 
 
 
