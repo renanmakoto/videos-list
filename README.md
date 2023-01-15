@@ -17,6 +17,7 @@ The modules used were added with the following command lines:
     "start_node": "node index.js",
     "start_dev": "concurrently \"npm run start_node\" \"npm run
     "postinstall": "npm install --prefix front"
+    (This was included in order to install the node modules when running the project)
 
 
 
@@ -33,4 +34,4 @@ The modules used were added with the following command lines:
   #(This is added as the first line of the script)
 
   "postinstall": "npm run build"
-  (This is included in order to run the build folder automatically when deploying it)
+  (This was included in order to run the build folder automatically when deploying it)
