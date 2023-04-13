@@ -1,5 +1,22 @@
-# videos-list
-This repository contains a back-end part and a front-end part. The front-end runs with React and there were a few script modifications within the package.json file from both React and Node parts. 
+<h1>videos-list</h1>
+
+<p>This repository contains a back-end part and a front-end part. The front-end runs with React and there were a few script modifications within the package.json file from both React and Node parts.</p>
+
+
+<div align="center">
+  
+
+TECHNOLOGIES USED:
+
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="width: 64px; height: 64px;" /></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" style="width: 44px; height: 64px;" /></a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/64px-JavaScript-logo.png" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/64px-React-icon.svg.png" /></a>
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 64px; height: 64px;" /></a>
+
+
+</div>
+
 
 The modules used were added with the following command lines:
 
@@ -21,8 +38,6 @@ The modules used were added with the following command lines:
 
 
 
-
-
 - The React part had the following lines added to its package.json:
 
   "homepage": ".",
@@ -35,3 +50,9 @@ The modules used were added with the following command lines:
 
   "postinstall": "npm run build"
   (This was included in order to create the build environment automatically when deploying it)
+
+
+
+
+
+<p align="center">With ❤ by <img src=https://img.shields.io/badge/-dotExtension-black /> <p/>
