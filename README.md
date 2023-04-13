@@ -1,8 +1,6 @@
-<h1>videos-list</h1>
+<h1 align="center">videos-list</h1>
 
 <p>This repository contains a back-end part and a front-end part. The front-end runs with React and there were a few script modifications within the package.json file from both React and Node parts.</p>
-
-
 
 
 The modules used were added with the following command lines:
